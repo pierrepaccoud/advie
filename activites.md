@@ -1,17 +1,24 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+![Forêt]({% link images/Foret.png %})
+## Liste des activités 
+(cliquer sur le nom pour accéder au détail) :
+- Séminaires
+- Formation longue à une perception des forces de vie
+- Edition et diffusion de documentation
+- Groupes de travail internes et regroupements Fraternes
+- Formation de formateurs : Ateliers transmission
+-​ Activités associées
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+### Détail des activités :
+**Séminaires**
+- Séminaire sur la connaissance et un usage intelligent des outils informatiques
+avec perception des forces actives dans ce domaine et de leurs effets
+Une demi-journée d’introduction le vendredi permettra à des personnes nouvelles d’expérimenter cette approche.
+Tout public
 
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+  **Date** : du samedi 24 octobre 2026, 9h00, au dimanche 25,  12h30  
+  **Lieu** : Issenheim (Alsace) 
