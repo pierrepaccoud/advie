@@ -7,8 +7,8 @@ in_menu: true
 ## Liste des activités 
 (cliquer sur le nom pour accéder au détail) :
 - [Séminaires](#Séminaires)
-- Formation longue à une perception des forces de vie
-- Edition et diffusion de documentation
+- [Formation longue à une perception des forces de vie](#Formation)
+- Édition et diffusion de documentation
 - Groupes de travail internes et regroupements Fraternes
 - Formation de formateurs : Ateliers transmission
 -​ Activités associées
@@ -34,3 +34,39 @@ Vouloir approfondir et élargir son expérience des forces de vie et intensifier
 
 **Programme et dates des sessions du 5e cycle en 2025-2027 :**
 ![Tableau sessions]({% link images/Tableau sessions.png %}) 
+### Édition et diffusion de documentations
+Édition d’ouvrages sur les forces de vie.
+- « **Percevoir et connaître dans le monde éthérique**, bases méthodologiques de la recherche sur les forces formatrices » de Markus Buchmann, 2011, édition 2024
+12€
+- **Livre d’exercices** (en cours)
+### Groupes de travail internes et regroupements régionaux Fraternes
+Rencontres des personnes ayant terminé le cycle de formation longue  
+On a 2 types de rencontres :  
+**1. Groupes de travail**
+![Groupes de travail]({% link images/groupes.png %})
+
+**2. Regroupements régionaux Fraternes**  
+Durée : 2,5 jours  
+Lieux : Nord est, Sud ouest et Sud est  
+Expérimentation et consolidation de la formation initiale  
+L’objectif est de mettre en place un ou deux regroupements par an et par lieu de rencontres.
+
+Voir les détails en interne
+
+### Ateliers transmission
+Travail sur la transmission de cette méthode pour les personnes portant ce but :
+- échanges et partages d’expériences
+- pédagogie
+- développement d'une sémantique commune
+- partages d’exercices
+- supervision, analyse de la pratique
+
+Voir les détails en interne
+
+### Activités associées
+
+D’autres associations travaillent dans ce domaine et proposent des séminaires ou des rencontres.
+
+**Exemples de travail** : Perception et discernement dans les technologies, axe poisson vierge, Soutenir l’être humain à l’époque actuelle.
+
+Pour [**Adventa**](https://adventa.online/fr/calendrier-des-seminaires/) 
