@@ -3,7 +3,7 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-![Forêt]({% link images/Foret.png %})
+![Forêt]({% link images/Foret.jpg %})
 ## Liste des activités 
 (cliquer sur le nom pour accéder au détail) :
 - Séminaires
