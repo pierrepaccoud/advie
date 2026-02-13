@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Arc en Ciel]({% link images/ArcEnciel.png %})
+![Arc en ciel]({% link images/ArcEnciel.jpg %})
 
 # ADVIE
 Advie* est une association au service de la formation, de la recherche, des échanges et de l’information du public dans le domaine des forces inhérentes à la vie.
