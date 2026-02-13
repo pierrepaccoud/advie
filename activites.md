@@ -6,15 +6,15 @@ in_menu: true
 ![Forêt]({% link images/Foret.jpg %})
 ## Liste des activités 
 (cliquer sur le nom pour accéder au détail) :
-- [Séminaires](#séminaires)
+- [Séminaires](#Séminaires)
 - Formation longue à une perception des forces de vie
 - Edition et diffusion de documentation
 - Groupes de travail internes et regroupements Fraternes
 - Formation de formateurs : Ateliers transmission
 -​ Activités associées
 
-### Détail des activités :
-#séminaires**Séminaires**
+## Détail des activités :
+### Séminaires
 - Séminaire sur la connaissance et un usage intelligent des outils informatiques
 avec perception des forces actives dans ce domaine et de leurs effets
 Une demi-journée d’introduction le vendredi permettra à des personnes nouvelles d’expérimenter cette approche.
