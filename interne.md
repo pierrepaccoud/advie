@@ -1,7 +1,7 @@
 ---
 title: "Interne"
 order: 7
-in_menu: true
+in_menu: false
 ---
 ![Interne]({% link images/Interne.jpg %})
 ## Page interne **Advie**
