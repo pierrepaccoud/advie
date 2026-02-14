@@ -6,9 +6,9 @@ in_menu: true
 ![Forêt]({% link images/Foret.jpg %})
 ## Liste des activités 
 (cliquer sur le nom pour accéder au détail) :
-- [Séminaires](#Séminaires)
-- [Formation longue à une perception des forces de vie](#Formation)
-- Édition et diffusion de documentation
+- [Séminaires](/seminaires)
+- [Formation longue à une perception des forces de vie](/formation-longue-a-une perception-des-forces-de-vie)
+- [Édition et diffusion de documentation](/edition-et-diffusion-de-documentations)
 - Groupes de travail internes et regroupements Fraternes
 - Formation de formateurs : Ateliers transmission
 -​ Activités associées
