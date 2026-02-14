@@ -36,4 +36,4 @@ escient.
 
 *Ad-vie = vers la vie 
 
-![Texte décrivant l'image]({% link images/Bandeau libre.jpg %}) 
+[![Bandeau libre]({% link images/Bandeau libre.jpg %})](http://artlibre.org/) 
