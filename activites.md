@@ -1,6 +1,6 @@
 ---
 title: "Activités"
-order: 1
+order: 2
 in_menu: true
 ---
 ![Forêt]({% link images/Foret.jpg %})

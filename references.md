@@ -1,6 +1,6 @@
 ---
 title: "Références"
-order: 3
+order: 4
 in_menu: true
 ---
 ![soleil_mer]({% link images/references.jpg %})

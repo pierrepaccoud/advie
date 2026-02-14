@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 5
+order: 6
 in_menu: true
 ---
 ![Contact]({% link images/contact.jpg %})
