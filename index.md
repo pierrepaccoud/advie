@@ -35,3 +35,5 @@ Sur la base de l‘expérience de 50 années de recherche à l‘Institut pour l
 escient.
 
 *Ad-vie = vers la vie 
+
+![Texte décrivant l'image]({% link images/Bandeau libre.jpg %}) 
