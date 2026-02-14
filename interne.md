@@ -1,10 +1,10 @@
 ---
 title: "Interne"
 order: 7
-in_menu: false
+in_menu: true
 ---
 ![Interne]({% link images/Interne.jpg %})
-## Page Interne Advie
+## Page interne **Advie**
 Bonjour à tous,
 Cette adresse vous a été donnée car vous avez participé à la formation longue de 2 ans de perception des forces de vie.
 Il est de votre responsabilité de ne pas transmettre ce lien en dehors de **Fraternes**.
