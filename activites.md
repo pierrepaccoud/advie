@@ -6,9 +6,9 @@ in_menu: true
 ![Forêt]({% link images/Foret.jpg %})
 ## Liste des activités 
 (cliquer sur le nom pour accéder au détail) :
-- [Séminaires](../seminaires)
+- [Séminaires](#seminaires)
 - [Formation longue à une perception des forces de vie](#formation-longue)
-- [Édition et diffusion de documentation](../edition-et-diffusion-de-documentations)
+- [Édition et diffusion de documentation](#edition-et-diffusion-de-documentations)
 - Groupes de travail internes et regroupements Fraternes
 - Formation de formateurs : Ateliers transmission
 -​ Activités associées
@@ -70,3 +70,5 @@ D’autres associations travaillent dans ce domaine et proposent des séminaires
 **Exemples de travail** : Perception et discernement dans les technologies, axe poisson vierge, Soutenir l’être humain à l’époque actuelle.
 
 Pour [**Adventa**](https://adventa.online/fr/calendrier-des-seminaires/) 
+
+[![Texte décrivant l'image]({% link images/Bandeau libre.jpg %})](http://artlibre.org/) 
