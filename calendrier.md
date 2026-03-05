@@ -10,4 +10,4 @@ in_menu: true
 - séminaire en jaune
 ### Calendrier 2026
 ![Kalendrier1]({% link images/Klendrier.jpg %})
-![Kalendrier2]({% link images/Klendrier2.jpg %}) 
+![Kalendrier2]({% link images/Corr_Kalend.jpg %}) 
