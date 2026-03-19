@@ -8,6 +8,7 @@ in_menu: true
 - cycle de formation sur 2 ans : en bleu en Alsace et en vert dans l’Allier
 - rencontres Fraternes en rose
 - séminaire en jaune
-### Calendrier 2026
+### Calendrier 2026-2027
 ![Kalendrier1]({% link images/Klendrier.jpg %})
-![Kalendrier2]({% link images/Corr_Kalend.jpg %}) 
+![Kalendrier2]({% link images/Klendrier2.jpg %})
+![Kalendrier3]({% link images/Klendrier3.jpg %}) 
